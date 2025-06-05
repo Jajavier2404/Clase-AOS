@@ -130,5 +130,5 @@ def programa_interactivo():
     except ValueError:
         print("Por favor, ingresa números válidos.")
 
-# Descomenta la siguiente línea para ejecutar el programa interactivo
-# programa_interactivo()
+
+programa_interactivo()
